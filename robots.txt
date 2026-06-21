@@ -1,0 +1,12 @@
+# CoinFlipperZZ — robots.txt
+# Tells search engine crawlers which pages to index
+
+User-agent: *
+Allow: /
+
+# Block any private or admin paths (add yours here if needed)
+# Disallow: /admin/
+# Disallow: /api/
+
+# Point Google to your sitemap
+Sitemap: https://coinflipperzz.com/sitemap.xml

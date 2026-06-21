@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  CoinFlipperZZ Sitemap
+  Submit this to Google Search Console at:
+  https://search.google.com/search-console
+  Go to: Sitemaps > Add sitemap > paste: https://coinflipperzz.com/sitemap.xml
+-->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <!-- HOMEPAGE — highest priority -->
+  <url>
+    <loc>https://coinflipperzz.com/</loc>
+    <lastmod>2026-06-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Add blog posts below as you create them -->
+  <!-- Example:
+  <url>
+    <loc>https://coinflipperzz.com/blog/is-a-coin-flip-really-50-50</loc>
+    <lastmod>2026-06-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  -->
+
+</urlset>

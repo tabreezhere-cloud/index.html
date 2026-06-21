@@ -1,0 +1,24 @@
+{
+  "name": "CoinFlipperZZ — Flip a Coin Online",
+  "short_name": "CoinFlipperZZ",
+  "description": "Free online coin flip simulator. Instant heads or tails. No signup required.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "/favicon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "categories": ["utilities", "entertainment"],
+  "lang": "en",
+  "orientation": "any"
+}
